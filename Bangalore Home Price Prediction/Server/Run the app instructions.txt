@@ -1,0 +1,2 @@
+To run the app, install all the requirements.
+Then open command prompt, change the directory location to cd  C:\Users\neeha\Documents\Neeharika\ML practice\Bangalore Home Price Prediction\Server and run 'python server.py' 
