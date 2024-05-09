@@ -11,3 +11,7 @@ During model building almost all data science concepts such as data load and cle
 5. Jupyter notebook, pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+
+
+To run the app, install all the requirements.
+Then open command prompt, change the directory location to cd  C:\Users\your code location\Server and run 'python server.py' 
